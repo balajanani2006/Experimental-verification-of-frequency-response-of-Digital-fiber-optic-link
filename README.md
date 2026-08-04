@@ -9,7 +9,7 @@ This experiment demonstrates how a digital signal can be transmitted over a fibe
 ---
 
 ## EQUIPMENTS REQUIRED
-- Link-B Kit with power supply  
+- Link-B Kit with power supply       
 - Patch chords  
 - 20 MHz Dual Channel Oscilloscope  
 - 1 MHz Function Generator  
