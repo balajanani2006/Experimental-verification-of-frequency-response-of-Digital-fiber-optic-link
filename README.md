@@ -3,7 +3,7 @@
 # Fiber Optic Digital Link Experiment (660nm & 950nm)
 
 ## AIM
-To study a **660nm & 950nm Fiber Optic Digital Link**.  
+To study a **660nm & 950nm Fiber Optic Digital Link**.   
 This experiment demonstrates how a digital signal can be transmitted over a fiber cable and reproduced at the receiver end.
 
 ---
